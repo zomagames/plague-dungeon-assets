@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low Poly Modular Dungeon - Sand Biome
+* source:	https://sketchfab.com/3d-models/low-poly-modular-dungeon-sand-biome-33101950158b4516b223c8da999a68aa
+* author:	Poki3D (https://sketchfab.com/poki3d)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
